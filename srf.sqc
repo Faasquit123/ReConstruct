@@ -1,0 +1,24 @@
+import GameEngine
+import GameSource
+
+public int PlayerSpeed as 1;
+public obj Player as cmd.prop.player;
+public var console.player.
+
+if{
+    player.console.input{
+        "bind", arg1, arg2
+        "arg1, arg2, arg1"
+        "bind cmd.input{
+            cmd.output.console{
+                arg1, arg2, arg3
+                arg1, arg2, arg3
+            }
+        }
+
+    }
+}{
+    console.output{
+        arg1, arg2, "bind" reload
+    }
+}
